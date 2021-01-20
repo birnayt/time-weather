@@ -1,0 +1,12 @@
+.app-title {
+  color: #fff;
+  font-size: 65px;
+}
+
+.divider {
+  width: 100%;
+  max-width: 600px;
+  margin-top: 50px;
+  border: none;
+  border-top: 1px solid #fff;
+}
