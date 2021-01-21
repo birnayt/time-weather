@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Capitals, ListTables } from '../styles';
+import { Capitals, ListTables } from '../styles/main';
 
 const CapitalsWeather: React.FC = () => {
   return (
